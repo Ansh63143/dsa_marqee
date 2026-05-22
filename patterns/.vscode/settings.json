@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": ["week 2 loops"],
+    "java.project.outputPath": "bin",
+    "files.exclude": {
+        "**/*.class": true
+    }
+}
