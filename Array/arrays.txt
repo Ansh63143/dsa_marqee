@@ -1,0 +1,10 @@
+Why we need array??
+-------------------------------
+
+int[] arr; \\\\\\\decleration
+int []arr = {1,8,9}; ////// initilization
+
+
+int[] arr = new int[size];
+
+Traversal of array;
