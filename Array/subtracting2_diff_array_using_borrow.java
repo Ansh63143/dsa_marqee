@@ -34,7 +34,7 @@ public class subtracting2_diff_array_using_borrow {
             i--;
             j--;
             k--;
-        }
+        } 
 
         return result;
     }
